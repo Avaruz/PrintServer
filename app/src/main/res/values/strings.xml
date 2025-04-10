@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Megalabs PrintService</string>
+    <string name="title_activity_main">Megalabs PrintService</string>
+    <string name="print_service_start">Iniciar Servicio de impresión</string>
+    <string name="print_service_stop">Detener Servicio de impresión</string>
+    <string name="print_service_error">Error en el servicio de impresión</string>
+    <string name="print_service_connected">Conectado a la impresora</string>
+    <string name="print_service_status_running">Servicio de impresion corriendo...</string>
+    <string name="print_service_status_stopped">Servicio de impresion detenido...</string>
+    <string name="print_service_label">PrintService</string>
+    <string name="print_service_vendor">Megalabs Bolivia</string>
+</resources>
